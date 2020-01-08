@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Car Assistant</string>
+    <string name="kiev">Kiev</string>
+    <string name="minsk">Minsk</string>
+    <string name="riga">Riga</string>
+    <string name="moscow">Moscow</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="otimalDistance">Построить маршррут, оптимизированный по расстоянию</string>
+    <string name="oprimalTime">Построить маршрут, оптимизированный по времени</string>
+    <string name="control">Управление авто</string>
+    <string name="build">Построить маршрут</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
